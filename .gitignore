@@ -27,6 +27,3 @@ yarn.lock*
 
 # ide
 .idea/
-
-# output folder
-/public/
